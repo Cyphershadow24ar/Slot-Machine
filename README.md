@@ -1,4 +1,3 @@
-# Slot-Machine
 # Slot Machine Simulation 🎰
 
 This is a Python-based terminal game that simulates a slot machine. Players can deposit money, place bets on multiple lines, and spin the reels to test their luck. The game is interactive, user-friendly, and allows you to manage your balance while enjoying the thrill of gambling (virtually)!
